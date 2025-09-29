@@ -1,73 +1,39 @@
-# Welcome to your Lovable project
+# Trendovia Showcase
 
-## Project info
+Trendovia is a sleek, modern showcase of the latest tech & lifestyle products. It serves as a visually appealing front to browse product highlights, categories, and promotions.  
 
-**URL**: https://lovable.dev/projects/15717897-9457-4588-9921-f8c1605b4b10
+---
 
-## How can I edit this code?
+## Features
 
-There are several ways of editing your application.
+- Responsive product gallery layout  
+- Category filters or navigation (if applicable)  
+- Hero/banner section for promotions or featured items  
+- Product detail previews  
+- Clean, minimal UI focused on visual presentation  
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/15717897-9457-4588-9921-f8c1605b4b10) and start prompting.
+## Technologies & Tools Used
 
-Changes made via Lovable will be committed automatically to this repo.
+- HTML5 & CSS3  
+- JavaScript (vanilla or frameworks/libraries if used)  
+- Responsive design (media queries, flexible grids)  
+- Optional: build tools, bundlers, preprocessors (e.g. Webpack, Babel, Sass)  
+- Hosting / deployment (e.g. static site hosting)  
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## Getting Started
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Prerequisites
 
-Follow these steps:
+- Node.js & npm (if project uses them)  
+- Git (optional, for version control)  
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### Installation / Setup
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/15717897-9457-4588-9921-f8c1605b4b10) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+1. Clone or download the repository  
+   ```bash
+   git clone <repository-url>
+   cd <project-folder>
