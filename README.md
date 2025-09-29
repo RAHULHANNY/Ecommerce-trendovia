@@ -37,3 +37,11 @@ Trendovia is a sleek, modern showcase of the latest tech & lifestyle products. I
    ```bash
    git clone <repository-url>
    cd <project-folder>
+
+VIDEO:
+
+
+
+https://github.com/user-attachments/assets/1986d1e6-c9a0-4d38-8707-a467e534696c
+
+
